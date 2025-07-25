@@ -12,8 +12,10 @@
 - ⚙️ Tools: Git, VS Code, GitHub
 
 ## 📫 Let’s Connect
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn]
+https://www.linkedin.com/in/varnit-asthana-0b26a8293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
+- [Email](mailto:varnitasthanayt@example.com)
 
 <!--
 **varnitasthana/varnitasthana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
