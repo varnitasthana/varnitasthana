@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Varnit Asthana
+👋 Hi,I’m Varnit Asthana
 
 🎓 3rd-year BTech CSE student at MDU, Rohtak  
 💻 Passionate about Web Development and Software Engineering  
@@ -12,8 +12,7 @@
 - ⚙️ Tools: Git, VS Code, GitHub
 
 ## 📫 Let’s Connect
-- [LinkedIn]
-https://www.linkedin.com/in/varnit-asthana-0b26a8293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- [LinkedIn](https://www.linkedin.com/in/varnit-asthana-0b26a8293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 - [Email](mailto:varnitasthanayt@example.com)
 
