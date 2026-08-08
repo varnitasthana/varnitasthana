@@ -1,6 +1,6 @@
 👋 Hi,I’m Varnit Asthana
 
-🎓 3rd-year BTech CSE student at MDU, Rohtak  
+🎓 4th-year BTech CSE student at MDU, Rohtak  
 💻 Passionate about Web Development and Software Engineering  
 🔭 Currently learning: Full Stack Development, Python, and Backend APIs  
 🌱 Actively working on personal and academic projects
