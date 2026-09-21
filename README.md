@@ -14,6 +14,6 @@
 ## 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/varnit-asthana-0b26a8293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-- [Email](mailto:varnitasthanayt@example.com)
+- [Email](mailto:varnitasthana23@example.com)
 
 <!--
