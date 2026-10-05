@@ -80,4 +80,4 @@ Git, GitHub Actions, Docker, pytest, Ruff, SQLAlchemy, Linux, VS Code
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/varnit-asthana-0b26a8293
-- Email: YOUR_REAL_EMAIL_HERE
+- Email: varnitasthana23@gmail.com
